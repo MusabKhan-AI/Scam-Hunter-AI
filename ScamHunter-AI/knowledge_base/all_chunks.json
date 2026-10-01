@@ -1,0 +1,672 @@
+[
+  {
+    "document_id": "safe_verification",
+    "filename": "safe_verification.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "safe_verification_chunk_0000",
+    "text": "# Safe Verification and Evidence Collection Guide\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "safe_verification",
+    "filename": "safe_verification.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Independent channel",
+    "chunk_id": "safe_verification_chunk_0001",
+    "text": "## Independent channel\n\nIf a message claims to be from an organization, contact that organization using a website or contact method obtained independently."
+  },
+  {
+    "document_id": "safe_verification",
+    "filename": "safe_verification.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Do not escalate exposure",
+    "chunk_id": "safe_verification_chunk_0002",
+    "text": "## Do not escalate exposure\n\nAvoid clicking unknown links, sending additional credentials, or forwarding sensitive documents merely to investigate."
+  },
+  {
+    "document_id": "safe_verification",
+    "filename": "safe_verification.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Evidence quality",
+    "chunk_id": "safe_verification_chunk_0003",
+    "text": "## Evidence quality\n\nPrefer primary or independently verified sources. Treat copied social posts and anonymous claims as lower-confidence until corroborated."
+  },
+  {
+    "document_id": "safe_verification",
+    "filename": "safe_verification.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Uncertainty",
+    "chunk_id": "safe_verification_chunk_0004",
+    "text": "## Uncertainty\n\nA lack of evidence does not prove safety. Record what was checked, what remains unknown, and what would resolve the uncertainty."
+  },
+  {
+    "document_id": "crypto_scams",
+    "filename": "crypto_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "crypto_scams_chunk_0000",
+    "text": "# Cryptocurrency Scam Patterns\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "crypto_scams",
+    "filename": "crypto_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Irreversible transfers",
+    "chunk_id": "crypto_scams_chunk_0001",
+    "text": "## Irreversible transfers\n\nCryptocurrency transactions can be difficult or impossible to reverse, so payment requests deserve careful verification."
+  },
+  {
+    "document_id": "crypto_scams",
+    "filename": "crypto_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Recovery scams",
+    "chunk_id": "crypto_scams_chunk_0002",
+    "text": "## Recovery scams\n\nA person who claims they can recover lost cryptocurrency for an upfront fee may create a second scam opportunity."
+  },
+  {
+    "document_id": "crypto_scams",
+    "filename": "crypto_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Verification",
+    "chunk_id": "crypto_scams_chunk_0003",
+    "text": "## Verification\n\nVerify the service, wallet address, organization, and transaction instructions through independent sources before sending funds."
+  },
+  {
+    "document_id": "fake_support_scams",
+    "filename": "fake_support_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "fake_support_scams_chunk_0000",
+    "text": "# Fake Customer Support Scams\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "fake_support_scams",
+    "filename": "fake_support_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Impersonation",
+    "chunk_id": "fake_support_scams_chunk_0001",
+    "text": "## Impersonation\n\nFraudsters may impersonate banks, marketplaces, software companies, or delivery providers."
+  },
+  {
+    "document_id": "fake_support_scams",
+    "filename": "fake_support_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Remote access",
+    "chunk_id": "fake_support_scams_chunk_0002",
+    "text": "## Remote access\n\nUnexpected requests to install remote-access software can expose devices and accounts. Verify support requests through the official site."
+  },
+  {
+    "document_id": "fake_support_scams",
+    "filename": "fake_support_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Official contact",
+    "chunk_id": "fake_support_scams_chunk_0003",
+    "text": "## Official contact\n\nUse the organization's published support page rather than a phone number or link supplied by an unsolicited message."
+  },
+  {
+    "document_id": "giveaway_scams",
+    "filename": "giveaway_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "giveaway_scams_chunk_0000",
+    "text": "# Fake Giveaway and Prize Scams\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "giveaway_scams",
+    "filename": "giveaway_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Prize claims",
+    "chunk_id": "giveaway_scams_chunk_0001",
+    "text": "## Prize claims\n\nA message claiming that a recipient won a prize they never entered may be suspicious."
+  },
+  {
+    "document_id": "giveaway_scams",
+    "filename": "giveaway_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Fees",
+    "chunk_id": "giveaway_scams_chunk_0002",
+    "text": "## Fees\n\nRequests to pay a release fee, tax, shipping charge, or verification payment before receiving an unexpected prize should be independently verified."
+  },
+  {
+    "document_id": "giveaway_scams",
+    "filename": "giveaway_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Identity",
+    "chunk_id": "giveaway_scams_chunk_0003",
+    "text": "## Identity\n\nDo not send identity documents or account credentials to an unverified prize administrator."
+  },
+  {
+    "document_id": "identity_theft",
+    "filename": "identity_theft.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "identity_theft_chunk_0000",
+    "text": "# Identity Theft and Account Takeover\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "identity_theft",
+    "filename": "identity_theft.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Sensitive data",
+    "chunk_id": "identity_theft_chunk_0001",
+    "text": "## Sensitive data\n\nIdentity documents, passwords, recovery codes, and financial credentials can enable account takeover or identity theft."
+  },
+  {
+    "document_id": "identity_theft",
+    "filename": "identity_theft.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Unexpected requests",
+    "chunk_id": "identity_theft_chunk_0002",
+    "text": "## Unexpected requests\n\nUnexpected requests for identity information should be verified through a trusted channel."
+  },
+  {
+    "document_id": "identity_theft",
+    "filename": "identity_theft.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Response",
+    "chunk_id": "identity_theft_chunk_0003",
+    "text": "## Response\n\nIf sensitive information may have been exposed, use the relevant organization's official security process and consider changing credentials through the official site."
+  },
+  {
+    "document_id": "investigation_methodology",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "investigation_methodology_chunk_0000",
+    "text": "# Scam Investigation Methodology\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "investigation_methodology",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Step 1: Preserve",
+    "chunk_id": "investigation_methodology_chunk_0001",
+    "text": "## Step 1: Preserve\n\nSave the original message, URL, sender details, screenshots, attachments, timestamps, and payment instructions."
+  },
+  {
+    "document_id": "investigation_methodology",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Step 2: Classify",
+    "chunk_id": "investigation_methodology_chunk_0002",
+    "text": "## Step 2: Classify\n\nIdentify the apparent scenario: phishing, shopping, job, investment, impersonation, payment, or another pattern."
+  },
+  {
+    "document_id": "investigation_methodology",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Step 3: Corroborate",
+    "chunk_id": "investigation_methodology_chunk_0003",
+    "text": "## Step 3: Corroborate\n\nCompare claims against independent sources and the internal knowledge base."
+  },
+  {
+    "document_id": "investigation_methodology",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Step 4: Contradictions",
+    "chunk_id": "investigation_methodology_chunk_0004",
+    "text": "## Step 4: Contradictions\n\nRecord evidence that conflicts with the claim. Do not hide uncertainty."
+  },
+  {
+    "document_id": "investigation_methodology",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Step 5: Decide next verification step",
+    "chunk_id": "investigation_methodology_chunk_0005",
+    "text": "## Step 5: Decide next verification step\n\nThe investigation should end with practical verification actions rather than an unsupported accusation."
+  },
+  {
+    "document_id": "investment_scams",
+    "filename": "investment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "investment_scams_chunk_0000",
+    "text": "# Investment Scam Patterns\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "investment_scams",
+    "filename": "investment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Unrealistic returns",
+    "chunk_id": "investment_scams_chunk_0001",
+    "text": "## Unrealistic returns\n\nClaims of guaranteed or unusually high returns with little or no risk should receive heightened scrutiny."
+  },
+  {
+    "document_id": "investment_scams",
+    "filename": "investment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Time pressure",
+    "chunk_id": "investment_scams_chunk_0002",
+    "text": "## Time pressure\n\nA demand to invest immediately to avoid missing a private opportunity is a common pressure signal."
+  },
+  {
+    "document_id": "investment_scams",
+    "filename": "investment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Verification",
+    "chunk_id": "investment_scams_chunk_0003",
+    "text": "## Verification\n\nIndependently verify the company, registration status where relevant, contact information, and withdrawal terms using trusted sources."
+  },
+  {
+    "document_id": "investment_scams",
+    "filename": "investment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Payment path",
+    "chunk_id": "investment_scams_chunk_0004",
+    "text": "## Payment path\n\nRequests for cryptocurrency transfers, gift cards, personal accounts, or other difficult-to-reverse payments may increase risk."
+  },
+  {
+    "document_id": "job_scams",
+    "filename": "job_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "job_scams_chunk_0000",
+    "text": "# Job and Recruitment Scam Patterns\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "job_scams",
+    "filename": "job_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Common signals",
+    "chunk_id": "job_scams_chunk_0001",
+    "text": "## Common signals\n\nUnexpected recruitment messages, requests for upfront fees, requests for sensitive identity documents before a legitimate hiring stage, and unrealistic compensation can be warning signals."
+  },
+  {
+    "document_id": "job_scams",
+    "filename": "job_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Equipment schemes",
+    "chunk_id": "job_scams_chunk_0002",
+    "text": "## Equipment schemes\n\nA supposed employer may send a check or request that the applicant purchase equipment from a specified seller. Verify the employer independently before sending money."
+  },
+  {
+    "document_id": "job_scams",
+    "filename": "job_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Verification",
+    "chunk_id": "job_scams_chunk_0003",
+    "text": "## Verification\n\nUse the organization's official careers page or independently sourced contact details to verify the vacancy."
+  },
+  {
+    "document_id": "payment_scams",
+    "filename": "payment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "payment_scams_chunk_0000",
+    "text": "# Banking and Payment Scam Patterns\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "payment_scams",
+    "filename": "payment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Payment instructions",
+    "chunk_id": "payment_scams_chunk_0001",
+    "text": "## Payment instructions\n\nUnexpected changes to payment instructions should be independently verified, especially for business invoices or large transfers."
+  },
+  {
+    "document_id": "payment_scams",
+    "filename": "payment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "One-time codes",
+    "chunk_id": "payment_scams_chunk_0002",
+    "text": "## One-time codes\n\nNever share a one-time authentication code merely because someone claims to be support staff. Use an official support channel to verify."
+  },
+  {
+    "document_id": "payment_scams",
+    "filename": "payment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Account takeover",
+    "chunk_id": "payment_scams_chunk_0003",
+    "text": "## Account takeover\n\nUnexpected password-reset notices or device-login alerts can indicate attempted account takeover. Navigate directly to the official service rather than using message links."
+  },
+  {
+    "document_id": "phishing_guide",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "phishing_guide_chunk_0000",
+    "text": "# Phishing Scam Detection Guide\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "phishing_guide",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Purpose",
+    "chunk_id": "phishing_guide_chunk_0001",
+    "text": "## Purpose\n\nThis synthetic demonstration document explains common phishing indicators for RAG testing. It is educational sample content, not an official security standard."
+  },
+  {
+    "document_id": "phishing_guide",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Urgency and pressure",
+    "chunk_id": "phishing_guide_chunk_0002",
+    "text": "## Urgency and pressure\n\nSuspicious messages may create artificial deadlines, demand immediate action, or threaten account closure. A pressure tactic is a signal to verify independently, not proof of fraud."
+  },
+  {
+    "document_id": "phishing_guide",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Credential requests",
+    "chunk_id": "phishing_guide_chunk_0003",
+    "text": "## Credential requests\n\nRequests for passwords, one-time codes, recovery codes, or complete payment credentials deserve careful verification. Legitimate organizations vary in their processes, so the surrounding evidence matters."
+  },
+  {
+    "document_id": "phishing_guide",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Links and destinations",
+    "chunk_id": "phishing_guide_chunk_0004",
+    "text": "## Links and destinations\n\nA link should be checked for its actual destination and whether it matches the expected organization. Do not enter credentials merely because a page looks familiar."
+  },
+  {
+    "document_id": "phishing_guide",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Safe verification",
+    "chunk_id": "phishing_guide_chunk_0005",
+    "text": "## Safe verification\n\nUse an independently obtained official contact method instead of the contact details contained in a suspicious message."
+  },
+  {
+    "document_id": "romance_scams",
+    "filename": "romance_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "romance_scams_chunk_0000",
+    "text": "# Romance and Social Engineering Scams\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "romance_scams",
+    "filename": "romance_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Trust building",
+    "chunk_id": "romance_scams_chunk_0001",
+    "text": "## Trust building\n\nScammers may invest significant time in creating trust before introducing financial requests."
+  },
+  {
+    "document_id": "romance_scams",
+    "filename": "romance_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Emergency stories",
+    "chunk_id": "romance_scams_chunk_0002",
+    "text": "## Emergency stories\n\nUrgent medical, travel, legal, or family emergencies can be used to pressure a person into sending money."
+  },
+  {
+    "document_id": "romance_scams",
+    "filename": "romance_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Safe boundary",
+    "chunk_id": "romance_scams_chunk_0003",
+    "text": "## Safe boundary\n\nAvoid sending money or sensitive credentials based solely on an online relationship. Verify identity through independent methods."
+  },
+  {
+    "document_id": "shopping_scams",
+    "filename": "shopping_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "shopping_scams_chunk_0000",
+    "text": "# Online Shopping Scam Patterns\n\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing."
+  },
+  {
+    "document_id": "shopping_scams",
+    "filename": "shopping_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Fake listings",
+    "chunk_id": "shopping_scams_chunk_0001",
+    "text": "## Fake listings\n\nWarning signals can include unusually low prices, pressure to pay outside a platform, copied product descriptions, and seller requests for irreversible payment methods."
+  },
+  {
+    "document_id": "shopping_scams",
+    "filename": "shopping_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Payment risk",
+    "chunk_id": "shopping_scams_chunk_0002",
+    "text": "## Payment risk\n\nA seller asking a buyer to move payment to an unrelated account can reduce platform protections. This is a risk signal that should be verified."
+  },
+  {
+    "document_id": "shopping_scams",
+    "filename": "shopping_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Evidence collection",
+    "chunk_id": "shopping_scams_chunk_0003",
+    "text": "## Evidence collection\n\nPreserve the listing, seller profile, payment instructions, order details, and relevant correspondence before reporting or disputing a transaction."
+  },
+  {
+    "document_id": "shopping_scams",
+    "filename": "shopping_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "Verification",
+    "chunk_id": "shopping_scams_chunk_0004",
+    "text": "## Verification\n\nCheck seller identity, return terms, independent reviews, and the platform's official dispute process. A single positive review is not enough to establish authenticity."
+  },
+  {
+    "document_id": "f61b9baae66d59dc",
+    "filename": "investment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "f61b9baae66d59dc-0000",
+    "text": "Investment Scam Patterns\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nUnrealistic returns\nClaims of guaranteed or unusually high returns with little or no risk should receive heightened scrutiny.\nTime pressure\nA demand to invest immediately to avoid missing a private opportunity is a common pressure signal.\nVerification\nIndependently verify the company, registration status where relevant, contact information, and withdrawal terms\nusing trusted sources.\nPayment path\nRequests for cryptocurrency transfers, gift cards, personal accounts, or other difficult-to-reverse payments may\nincrease risk."
+  },
+  {
+    "document_id": "87d135543f316120",
+    "filename": "safe_verification.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "87d135543f316120-0000",
+    "text": "Safe Verification and Evidence Collection Guide\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nIndependent channel\nIf a message claims to be from an organization, contact that organization using a website or contact method\nobtained independently.\nDo not escalate exposure\nAvoid clicking unknown links, sending additional credentials, or forwarding sensitive documents merely to\ninvestigate.\nEvidence quality\nPrefer primary or independently verified sources. Treat copied social posts and anonymous claims as\nlower-confidence until corroborated.\nUncertainty\nA lack of evidence does not prove safety. Record what was checked, what remains unknown, and what would\nresolve the uncertainty."
+  },
+  {
+    "document_id": "af9c5bf4f4c31bb6",
+    "filename": "investigation_methodology.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "af9c5bf4f4c31bb6-0000",
+    "text": "Scam Investigation Methodology\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nStep 1: Preserve\nSave the original message, URL, sender details, screenshots, attachments, timestamps, and payment\ninstructions.\nStep 2: Classify\nIdentify the apparent scenario: phishing, shopping, job, investment, impersonation, payment, or another pattern.\nStep 3: Corroborate\nCompare claims against independent sources and the internal knowledge base.\nStep 4: Contradictions\nRecord evidence that conflicts with the claim. Do not hide uncertainty.\nStep 5: Decide next verification step\nThe investigation should end with practical verification actions rather than an unsupported accusation."
+  },
+  {
+    "document_id": "89c9a3a95e4dec34",
+    "filename": "job_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "89c9a3a95e4dec34-0000",
+    "text": "Job and Recruitment Scam Patterns\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nCommon signals\nUnexpected recruitment messages, requests for upfront fees, requests for sensitive identity documents before a\nlegitimate hiring stage, and unrealistic compensation can be warning signals.\nEquipment schemes\nA supposed employer may send a check or request that the applicant purchase equipment from a specified\nseller. Verify the employer independently before sending money.\nVerification\nUse the organization's official careers page or independently sourced contact details to verify the vacancy."
+  },
+  {
+    "document_id": "97771d3a701c8223",
+    "filename": "fake_support_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "97771d3a701c8223-0000",
+    "text": "Fake Customer Support Scams\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nImpersonation\nFraudsters may impersonate banks, marketplaces, software companies, or delivery providers.\nRemote access\nUnexpected requests to install remote-access software can expose devices and accounts. Verify support\nrequests through the official site.\nOfficial contact\nUse the organization's published support page rather than a phone number or link supplied by an unsolicited\nmessage."
+  },
+  {
+    "document_id": "af4c796369d61ef5",
+    "filename": "romance_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "af4c796369d61ef5-0000",
+    "text": "Romance and Social Engineering Scams\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nTrust building\nScammers may invest significant time in creating trust before introducing financial requests.\nEmergency stories\nUrgent medical, travel, legal, or family emergencies can be used to pressure a person into sending money.\nSafe boundary\nAvoid sending money or sensitive credentials based solely on an online relationship. Verify identity through\nindependent methods."
+  },
+  {
+    "document_id": "7d810491859bc83b",
+    "filename": "shopping_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "7d810491859bc83b-0000",
+    "text": "Online Shopping Scam Patterns\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nFake listings\nWarning signals can include unusually low prices, pressure to pay outside a platform, copied product\ndescriptions, and seller requests for irreversible payment methods.\nPayment risk\nA seller asking a buyer to move payment to an unrelated account can reduce platform protections. This is a risk\nsignal that should be verified.\nEvidence collection\nPreserve the listing, seller profile, payment instructions, order details, and relevant correspondence before\nreporting or disputing a transaction.\nVerification\nCheck seller identity, return terms, independent reviews, and the platform's official dispute process. A single\npositive review is not enough to establish authenticity."
+  },
+  {
+    "document_id": "af757151c3503716",
+    "filename": "giveaway_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "af757151c3503716-0000",
+    "text": "Fake Giveaway and Prize Scams\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nPrize claims\nA message claiming that a recipient won a prize they never entered may be suspicious.\nFees\nRequests to pay a release fee, tax, shipping charge, or verification payment before receiving an unexpected prize\nshould be independently verified.\nIdentity\nDo not send identity documents or account credentials to an unverified prize administrator."
+  },
+  {
+    "document_id": "706361650fc7d21f",
+    "filename": "payment_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "706361650fc7d21f-0000",
+    "text": "Banking and Payment Scam Patterns\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nPayment instructions\nUnexpected changes to payment instructions should be independently verified, especially for business invoices\nor large transfers.\nOne-time codes\nNever share a one-time authentication code merely because someone claims to be support staff. Use an official\nsupport channel to verify.\nAccount takeover\nUnexpected password-reset notices or device-login alerts can indicate attempted account takeover. Navigate\ndirectly to the official service rather than using message links."
+  },
+  {
+    "document_id": "d106a6cfa6c07a6a",
+    "filename": "identity_theft.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "d106a6cfa6c07a6a-0000",
+    "text": "Identity Theft and Account Takeover\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nSensitive data\nIdentity documents, passwords, recovery codes, and financial credentials can enable account takeover or identity\ntheft.\nUnexpected requests\nUnexpected requests for identity information should be verified through a trusted channel.\nResponse\nIf sensitive information may have been exposed, use the relevant organization's official security process and\nconsider changing credentials through the official site."
+  },
+  {
+    "document_id": "2d6fe64d6879c97a",
+    "filename": "phishing_guide.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "2d6fe64d6879c97a-0000",
+    "text": "Phishing Scam Detection Guide\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nPurpose\nThis synthetic demonstration document explains common phishing indicators for RAG testing. It is educational\nsample content, not an official security standard.\nUrgency and pressure\nSuspicious messages may create artificial deadlines, demand immediate action, or threaten account closure. A\npressure tactic is a signal to verify independently, not proof of fraud.\nCredential requests\nRequests for passwords, one-time codes, recovery codes, or complete payment credentials deserve careful\nverification. Legitimate organizations vary in their processes, so the surrounding evidence matters.\nLinks and destinations\nA link should be checked for its actual destination and whether it matches the expected organization. Do not enter\ncredentials merely because a page looks familiar.\nSafe verification\nUse an independently obtained official contact method instead of the contact details contained in a suspicious\nmessage."
+  },
+  {
+    "document_id": "eebd7702924e31c7",
+    "filename": "crypto_scams.pdf",
+    "file_type": ".pdf",
+    "source_type": "knowledge_base",
+    "page": 1,
+    "section": "",
+    "chunk_id": "eebd7702924e31c7-0000",
+    "text": "Cryptocurrency Scam Patterns\nSynthetic demonstration knowledge-base document for ScamHunter AI RAG testing.\nIrreversible transfers\nCryptocurrency transactions can be difficult or impossible to reverse, so payment requests deserve careful\nverification.\nRecovery scams\nA person who claims they can recover lost cryptocurrency for an upfront fee may create a second scam\nopportunity.\nVerification\nVerify the service, wallet address, organization, and transaction instructions through independent sources before\nsending funds."
+  }
+]

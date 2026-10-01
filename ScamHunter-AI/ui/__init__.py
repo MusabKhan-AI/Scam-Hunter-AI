@@ -1,0 +1,3 @@
+"""
+ScamHunter AI UI package.
+"""

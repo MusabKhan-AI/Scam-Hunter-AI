@@ -1,0 +1,12 @@
+# ScamHunter AI - runtime dependencies (Streamlit Community Cloud friendly)
+# No torch / crewai: the app does not need them and they break cloud builds.
+streamlit>=1.43,<2
+groq>=0.13
+google-genai>=1.0
+faiss-cpu>=1.8
+fastembed>=0.4
+numpy>=1.26
+pypdf>=5.0
+python-docx>=1.1
+ddgs>=9.0
+requests>=2.32

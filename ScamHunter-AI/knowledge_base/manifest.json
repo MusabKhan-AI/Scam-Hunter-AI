@@ -1,0 +1,62 @@
+{
+  "investment_scams.pdf": {
+    "sha256": "f61b9baae66d59dcc832c88ca6cf766ff99c763840770eb8d92479fa5507a823",
+    "document_id": "f61b9baae66d59dc",
+    "filename": "investment_scams.pdf"
+  },
+  "safe_verification.pdf": {
+    "sha256": "87d135543f3161207bbf571d2f712b9f2e2233fb523939e219fb657e35cc8ae8",
+    "document_id": "87d135543f316120",
+    "filename": "safe_verification.pdf"
+  },
+  "investigation_methodology.pdf": {
+    "sha256": "af9c5bf4f4c31bb65e89ea7be7e2bf6f0192bbdac71ca9cd545ad5bfa67afcd2",
+    "document_id": "af9c5bf4f4c31bb6",
+    "filename": "investigation_methodology.pdf"
+  },
+  "job_scams.pdf": {
+    "sha256": "89c9a3a95e4dec34b645d1c5b82fda8c41e21b7fb9871da1863b352b87bff2ad",
+    "document_id": "89c9a3a95e4dec34",
+    "filename": "job_scams.pdf"
+  },
+  "fake_support_scams.pdf": {
+    "sha256": "97771d3a701c8223aa33f5b5b462093e1987daced91f639ac5e93b6ffdb25d90",
+    "document_id": "97771d3a701c8223",
+    "filename": "fake_support_scams.pdf"
+  },
+  "romance_scams.pdf": {
+    "sha256": "af4c796369d61ef5351c5a1bad4f437c64fa251ad2ad009633d03cc2256325d9",
+    "document_id": "af4c796369d61ef5",
+    "filename": "romance_scams.pdf"
+  },
+  "shopping_scams.pdf": {
+    "sha256": "7d810491859bc83b930ab4d5c43d6049adf14f7819be48026cd992dc315e31f1",
+    "document_id": "7d810491859bc83b",
+    "filename": "shopping_scams.pdf"
+  },
+  "giveaway_scams.pdf": {
+    "sha256": "af757151c3503716f7da35f84a4c8ac8cd072de1a2bdcc93c66cc4a7118d6671",
+    "document_id": "af757151c3503716",
+    "filename": "giveaway_scams.pdf"
+  },
+  "payment_scams.pdf": {
+    "sha256": "706361650fc7d21f1ee2cb467d63e5fb564d07e8514123666330afe1d9b51ece",
+    "document_id": "706361650fc7d21f",
+    "filename": "payment_scams.pdf"
+  },
+  "identity_theft.pdf": {
+    "sha256": "d106a6cfa6c07a6a5413bfd97fa6283e20bd964fa92da245fa6aadcf399b3df2",
+    "document_id": "d106a6cfa6c07a6a",
+    "filename": "identity_theft.pdf"
+  },
+  "phishing_guide.pdf": {
+    "sha256": "2d6fe64d6879c97a4a18fa8d8789aad1572400cfd35657b26e871aa8bbdd793e",
+    "document_id": "2d6fe64d6879c97a",
+    "filename": "phishing_guide.pdf"
+  },
+  "crypto_scams.pdf": {
+    "sha256": "eebd7702924e31c77c896a1ab98f46aab02f8e46f9af2c498fb5337aa52f8e57",
+    "document_id": "eebd7702924e31c7",
+    "filename": "crypto_scams.pdf"
+  }
+}
